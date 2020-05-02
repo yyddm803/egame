@@ -1,0 +1,11 @@
+egame.core:中心模块
+egame.objects:封装角色
+	Winddow(class):窗口
+	Scenery(class):场景
+	Sprite(class):游戏角色
+egame.event:事件处理
+	Event(class):事件
+	register(function):注册一个处理事件方法
+egame.game:游戏模型
+	Game(class):游戏模型
+	EveManager(class):事件管理器
