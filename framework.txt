@@ -1,6 +1,6 @@
 egame.core:中心模块
 egame.objects:封装角色
-	Winddow(class):窗口
+	Window(class):窗口
 	Scenery(class):场景
 	Sprite(class):游戏角色
 egame.event:事件处理
